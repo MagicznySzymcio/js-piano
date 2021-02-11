@@ -21,7 +21,7 @@ audio {
 
 .piano-javascript {
   border: 3px solid #f88;
-  display: block;
+  display: flex;
 }
 
 .piano {
